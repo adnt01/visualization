@@ -19,15 +19,16 @@
       Aesthetic: the image is visually nice and eye catching.
       Substantive: the use of fries communicates trend but lacks clarity and exact values.
       Perceptual: audience can grasp the idea and inssight, but isn’t very accurate for comparison.
+      ```
 
     - How could this data visualization have been improved?  
-      
+      ```
       The bars are not straight which creates small errors in values.
       Add legend, the values for y-axis just numers, it will help the audienace to know the metrics for y-axis.
       The title is not complete "FRENCH BY CONSUMPTION BY MONTH". The consumption in a specific city, countru, or the while world!
-
       ```
 
+      ```
       Bad visualization: https://datavizproject.com/wp-content/uploads/examples/oil-flow-daily-lives.jpg
       The vis has a high cognitive load on the audience as not intuitive to understand.
       Many lines — can be hard to read and focus.
@@ -36,9 +37,10 @@
       Vis cluttered: too many crossing lines.
       Human perception: not easy and struggles with judging lengths curves, wavy lines distort value comparison. This reduces readability 
       Audience and viewers perception is better at comparing aligned bars on a common axis than curves.
+      ```
 
     - How could this data visualization have been improved?  
-      
+      ```
       The points below would enahance the vis.
       Use color to group sectors.
       Add percentages to the flows.
@@ -52,7 +54,6 @@
       Sort the bars to help the viewers to compare.
       The use of few plots will reduce the cognitive load on the audience.
       Will help the audiene to conclude insights
-      
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
