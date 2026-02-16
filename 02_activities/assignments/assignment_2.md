@@ -9,25 +9,49 @@
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
-      ```
-      Your answer...
-
-
-
-
-
-
 
       ```
+      Good visualization: https://datavizproject.com/wp-content/uploads/examples/5658951917_b8cf0c5b94_b.jpg
+      The vis has a good cognitive load on the audience as it is intuitive to understand.
+      Easy to read and focus.
+      Lack insight: it is complex and there is no clear takeaway or insight.
+      Human perception: Audience and viewers perception is reasonable to interpret.
+      Aesthetic: the image is visually nice and eye catching.
+      Substantive: the use of fries communicates trend but lacks clarity and exact values.
+      Perceptual: audience can grasp the idea and inssight, but isn’t very accurate for comparison.
+
     - How could this data visualization have been improved?  
+      
+      The bars are not straight which creates small errors in values.
+      Add legend, the values for y-axis just numers, it will help the audienace to know the metrics for y-axis.
+      The title is not complete "FRENCH BY CONSUMPTION BY MONTH". The consumption in a specific city, countru, or the while world!
+
       ```
-      Your answer...
 
+      Bad visualization: https://datavizproject.com/wp-content/uploads/examples/oil-flow-daily-lives.jpg
+      The vis has a high cognitive load on the audience as not intuitive to understand.
+      Many lines — can be hard to read and focus.
+      Low contrast: the greyscale makes it hard to see the different pieces of the visualization.
+      Lack insight: it is complex and there is no clear takeaway or insight.
+      Vis cluttered: too many crossing lines.
+      Human perception: not easy and struggles with judging lengths curves, wavy lines distort value comparison. This reduces readability 
+      Audience and viewers perception is better at comparing aligned bars on a common axis than curves.
 
+    - How could this data visualization have been improved?  
+      
+      The points below would enahance the vis.
+      Use color to group sectors.
+      Add percentages to the flows.
+      Include a legend
+      Aesthetic: Nice and string Sankey visual.
+      Substantive: it contains a lot of information about oil
+      Perceptual: is high and difficult to grasp and conclude insights.
 
-
-
-
+      Another option is to use a simpler visualization:
+      For example use few bar plot; a bar plot for each sector, or by usage or any other grouping.
+      Sort the bars to help the viewers to compare.
+      The use of few plots will reduce the cognitive load on the audience.
+      Will help the audiene to conclude insights
       
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
