@@ -16,6 +16,7 @@
         My intended audience is the medical staff (doctors, nurses, any heath personnel)
     
     > What information or message are you trying to convey with your visualization?
+    
         I am trying to convey the relation between outbreaks in Toronto hospitals.
     
     > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots?
