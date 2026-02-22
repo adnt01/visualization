@@ -8,22 +8,46 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
+        I used Python librairies and Microsoft Excel.
 
-    > Who is your intended audience? 
+    > Who is your intended audience?
+        My intended audience is the medical staff (doctors, nurses, any heath personnel)
     
-    > What information or message are you trying to convey with your visualization? 
+    > What information or message are you trying to convey with your visualization?
+        I am trying to convey the relation between outbreaks in Toronto hospitals.
     
-    > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
-    
+    > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots?
+
+        I considered the following in the design:
+        Is the visualization pleasing to look at - Aesthetic.
+        Does the visualization accurately and honestly present data - Substantive.
+        Can we understand what message the maker of the visualization is attempting to convey - Perception
+        Aesthetic: use the subplots function to change figure size, change colour, nice color, 
+        Substantive Getting our visualizations to the intended audiences, includes its data source (substantive qualities).
+        perceptual: useds bar plot as an appropriate plot low perception and easy for the audience to unerstand.
+   
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
+        I used python librairies to ensure my data visualizations are reproducible.
+        If I used a tool that make your data visualization is not reproducible, my visualization might not be trusted enough if some one else was not able to reach the same result.
     
-    > How did you ensure that your data visualization is accessible?  
+    > How did you ensure that your data visualization is accessible?
+        To ensure my data visualization is accessible, I utilized the following:
+        Descriptive Summaries
+        Label x and y axis
     
     > Who are the individuals and communities who might be impacted by your visualization?  
+        Patients, doctors, nurses, persons working in hospitals since my visualizations might help 
+        Toronto hospitals to implement procedures to prevent the outbreaks between hospitals.
     
-    > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
+    > How did you choose which features of your chosen dataset to include or exclude from your visualization?
+        I chosed the features that have lot of cvalues, for example, I did not use Causative Agent-2 because it is populated in 14 records only.
     
     > What ‘underwater labour’ contributed to your final data visualization product?
+        The following 'underwater labour' or unseen contributions are:
+        Community organizers who facilitated data collection
+        Designers creating colour palettes for visualizations
+        The web developers who develope the web page
+        The IT support staff who set up the web server to host the data set online
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
